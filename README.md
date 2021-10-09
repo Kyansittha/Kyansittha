@@ -12,4 +12,4 @@
 - CSS3;
 - ///////////////////////////////////
 -
--I am currently working on a new adware project using C++ and Batch. If you want to work with me contact me on Facebook: facebook.com/essieren.DmitryYahontov
+-I am currently working on a new adware project using C++, VBS and Batch. If you want to work with me contact me on Facebook: facebook.com/essieren.DmitryYahontov
