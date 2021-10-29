@@ -1,13 +1,13 @@
--Kyansittha
+Kyansittha
 -
--Programming languages used:
+Programming languages used:
 - C++;
 - JS;
 - PHP;
 - VBS;
 - Batch Script [Idk if it is programming language];
 -
--Coding:
+Coding:
 - HTML5 [HTML is not programming language!];
 - CSS3;
 - ///////////////////////////////////
