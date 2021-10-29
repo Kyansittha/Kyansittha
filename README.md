@@ -1,13 +1,13 @@
 Kyansittha
 -
-Programming languages used:
+Programming in:
 - C++;
 - JS;
 - PHP;
 - VBS;
 - Batch Script [Idk if it is programming language];
 
-Coding:
+Coding in:
 - HTML5 [Because we all know it is not programming language];
 - CSS3;
 
