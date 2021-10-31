@@ -3,7 +3,7 @@ Kyansittha
 Programming in:
 - C++;
 - JS;
-- PHP;
+- PHP [I am beginner];
 - VBS;
 - Batch Script [Idk if it is programming language];
 
